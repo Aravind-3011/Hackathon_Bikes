@@ -16,10 +16,8 @@
     <classes>
       <class name="testBase.testCase">
         <methods>
-          <include name="invUsed"/>
           <include name="driverSetup"/>
           <include name="upcmg"/>
-          <include name="usdcars"/>
         </methods>
       </class> <!-- testBase.testCase -->
     </classes>
